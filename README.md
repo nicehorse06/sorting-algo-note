@@ -1,1 +1,1 @@
-# sort_demo_note
+# Sorting algorithm demo note
